@@ -2,6 +2,12 @@
 
 ## Repositories
 
+### CrudoDb
+
+my own dexiejs alternative to access easily indexeddb.
+
+[Repo](https://github.com/SourceCodeBot/crudodb)
+
 ### FP Sample in Scala
 
 my learning repo for functional progrmaming in scala.
