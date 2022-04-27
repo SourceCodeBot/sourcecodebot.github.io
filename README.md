@@ -1,8 +1,14 @@
-## Welcome to SourceCodeBot's Pages
+# Welcome to SourceCodeBot's Pages
 
-### Repositories
+## Repositories
 
-#### Onion Guide
+### FP Sample in Scala
+
+my learning repo for functional progrmaming in scala.
+
+[Repo](https://github.com/SourceCodeBot/scala-fp-sample)
+
+### Onion Guide
 
 my first intellij plugin
 
