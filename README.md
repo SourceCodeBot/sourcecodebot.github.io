@@ -14,7 +14,19 @@ my learning repo for functional progrmaming in scala.
 
 [Repo](https://github.com/SourceCodeBot/scala-fp-sample)
 
-### Onion Guide
+### Scala FP Seed (Adapter Port)
+
+my boilerplate template for adapters ports structure (single project)
+
+[Repo](https://github.com/SourceCodeBot/scala-adapter-port-seed.g8)
+
+### Scala FP Seed (Adapter Port Modular)
+
+my boilerplate template for adapters ports structure (mono repo project)
+
+[Repo](https://github.com/SourceCodeBot/scala-adapter-port-seed.g8)
+
+### Onion Guide (WIP)
 
 my first intellij plugin
 
