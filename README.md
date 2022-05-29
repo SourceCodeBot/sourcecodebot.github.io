@@ -24,7 +24,7 @@ my boilerplate template for adapters ports structure (single project)
 
 my boilerplate template for adapters ports structure (mono repo project)
 
-[Repo](https://github.com/SourceCodeBot/scala-adapter-port-seed.g8)
+[Repo](https://github.com/SourceCodeBot/scala-adapter-port-modular-seed.g8)
 
 ### Onion Guide (WIP)
 
