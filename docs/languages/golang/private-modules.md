@@ -6,7 +6,9 @@
 
 prepare github action
 
-```yaml .github/workflows/main.yaml
+> .github/workflows/main.yaml
+
+```yaml 
 
 name: Publish 
 
@@ -38,7 +40,9 @@ jobs:
 
 ## use private go module in github actions
 
-```yaml .github/workflows/main.yml 
+>  .github/workflows/main.yml 
+
+```yaml
 
 name: Publish 
 
@@ -88,7 +92,9 @@ check [Personal Access Tokens](https://github.com/settings/personal-access-token
 
 > you need at least contents readonly permission and "all repositories", that the client is able to fetch your go module
 
-```taskfile
+> Taskfile.yaml
+
+```yaml
 
 version: '3'
 
@@ -107,7 +113,6 @@ tasks:
         desc: "build docker image"
         cmds:
             - docker build --build-arg "GITHUB_TOKEN=${GITHUB_TOKEN}" --build-arg "VERSION=${TAG}" -t app:${TAG} .
-
 
 ```
 
