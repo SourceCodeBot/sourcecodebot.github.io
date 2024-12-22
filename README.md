@@ -2,31 +2,25 @@
 
 ## ToC
 
-1. Intro
-2. Target
-3. Old stuff
+1. [Intro](#intro)
+2. [Target](#target)
+3. [Old Stuff](#old-stuff)
 
 ## 1. Intro
 
 SourceCodeBot, a dude which loves to program a various set of applications.
 
-State of 2024, I program a lot of golang webservices in echo in private.
+State of 2024/25, I program a lot of golang webservices in echo with postgres in spare time.
 
-## 2. Target
+## Target
 
-I would like to collect all the stuff I have learned in the past and some guides around software practices.
+Collect stuff which is relavant in my exercies I practice to maintain multiple go projects.
 
-[Follow me](./docs/root.md)
+[Golang stuff](./docs/languages/golang/index.md)
 
-## 3. Old stuff
+## Old stuff
 
 ### Repositories
-
-#### CrudoDb
-
-my own dexiejs alternative to access easily indexeddb.
-
-[Repo](https://github.com/SourceCodeBot/crudodb)
 
 #### FP Sample in Scala
 
@@ -46,8 +40,3 @@ my boilerplate template for adapters ports structure (mono repo project)
 
 [Repo](https://github.com/SourceCodeBot/scala-adapter-port-modular-seed.g8)
 
-#### Onion Guide (WIP)
-
-my first intellij plugin
-
-[Repo](https://github.com/SourceCodeBot-inc/onion-guide)
